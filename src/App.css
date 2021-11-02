@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+body{
+  font-family: 'Inter', sans-serif;}
+
+button{
+  width: 106px;
+  height: 40px;
+  background-color: #27AE60;
+  border-style: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
+button:hover{
+  background-color: #93D7AF;
+}
+
+button:active{
+  background-color: #93D7AF;
+}
+
+h1{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: baseline;
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+h3{
+  font-size: 18px;
+  color: red;
+  margin-left: 10px;
+}
